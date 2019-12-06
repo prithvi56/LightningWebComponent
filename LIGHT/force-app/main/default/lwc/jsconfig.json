@@ -6,8 +6,11 @@
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
             ],
-            "c/HelloWorld": [
-                "HelloWorld/HelloWorld.js"
+            "c/DateLWC": [
+                "DateLWC/DateLWC.js"
+            ],
+            "c/dateLWC": [
+                "dateLWC/dateLWC.js"
             ]
         }
     },
