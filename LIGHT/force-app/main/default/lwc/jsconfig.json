@@ -3,14 +3,11 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/helloWorld": [
-                "helloWorld/helloWorld.js"
-            ],
-            "c/DateLWC": [
-                "DateLWC/DateLWC.js"
-            ],
             "c/dateLWC": [
                 "dateLWC/dateLWC.js"
+            ],
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
             ]
         }
     },
