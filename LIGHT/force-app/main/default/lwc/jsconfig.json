@@ -8,6 +8,12 @@
             ],
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
+            ],
+            "c/lightningDataTable": [
+                "lightningDataTable/lightningDataTable.js"
+            ],
+            "c/LightningDataTable": [
+                "LightningDataTable/LightningDataTable.js"
             ]
         }
     },
