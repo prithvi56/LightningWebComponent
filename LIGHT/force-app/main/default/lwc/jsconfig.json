@@ -8,6 +8,12 @@
             ],
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
+            ],
+            "c/LWC_DataTable": [
+                "LWC_DataTable/LWC_DataTable.js"
+            ],
+            "c/lWC_DataTable": [
+                "lWC_DataTable/lWC_DataTable.js"
             ]
         }
     },
